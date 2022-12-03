@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'alice',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'God night,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'classroom',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://classroom.google.com/u/1/',
 		},
 		{
 			id: '4',
@@ -86,9 +86,8 @@ const CONFIG = {
 			name: 'Odysee',
 			icon: 'youtube',
 			link: 'https://odysee.com/',
-		},
 	],
-
+],
 	secondButtonsContainer: [
 		{
 			id: '1',
