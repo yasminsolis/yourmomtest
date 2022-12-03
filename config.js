@@ -138,20 +138,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'liked music',
+					link: 'https://open.spotify.com/ahttps://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdNlbum/0io5pe55YRCTVqEjwlOBdN',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TRILOGY',
+					link: 'https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MINT JAMS',
+					link: 'https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9?si=IAGocKV3TveUcYqMTOakJQ',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hotline Miami 2',
+					link: 'https://open.spotify.com/playlist/02dTu6Lr0iiVtJzl0xuilW?si=3d5530d774db4e35',
 				},
 			],
 		},
@@ -160,8 +160,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'nitter',
+					link: 'https://nitter.net/',
 				},
 				{
 					name: 'Dribbble',
