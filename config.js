@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Goid night,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'classroom',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://classroom.google.com/u/1/',
 		},
 
 	],
