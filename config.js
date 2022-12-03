@@ -86,7 +86,7 @@ const CONFIG = {
 			id: '6',
 			name: 'youtube',
 			icon: 'youtube',
-			link: 'youtube.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -140,20 +140,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Liked songs',
+					link: 'https://open.spotify.com/collection/tracks',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TRILOGY',
+					link: 'https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MINT JAMS',
+					link: 'https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Legacy Of A Lunatic Kingdom',
+					link: 'https://open.spotify.com/album/4op1gv93yTE0P0GrefYuve',
 				},
 			],
 		},
@@ -162,20 +162,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Nitter',
+					link: 'https://nitter.net/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'tumblr',
+					link: 'https://www.tumblr.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Hotline Miami wiki',
+					link: 'https://hotlinemiami.fandom.com/wiki/Hotline_Miami_Wiki',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Touhou wiki',
+					link: 'https://en.touhouwiki.net/wiki/Touhou_Wiki',
 				},
 			],
 		},
