@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'alice',
+	name: 'John',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning,',
+	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Goid night,',
+	greetingNight: 'Go to Sleep!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -61,15 +61,32 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/',
+			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
-			name: 'classroom',
+			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://classroom.google.com/u/1/',
+			link: 'https://todoist.com',
 		},
-
+		{
+			id: '4',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
+		},
+		{
+			id: '5',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
+		},
+		{
+			id: '6',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
 	],
 
 	secondButtonsContainer: [
@@ -81,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'nitter',
-			icon: 'nitter',
-			link: ',https://nitter.net/',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
@@ -91,15 +108,20 @@ const CONFIG = {
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
-
 		{
 			id: '4',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
+		},
+		{
+			id: '5',
 			name: 'Hashnode',
 			icon: 'pen-tool',
 			link: 'https://hashnode.com/',
 		},
 		{
-			id: '5',
+			id: '6',
 			name: 'Figma',
 			icon: 'figma',
 			link: 'https://figma.com/',
