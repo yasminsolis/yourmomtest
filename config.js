@@ -1,3 +1,4 @@
+
 // ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
 // ╠╩╗║╣ ║║║ ║ ║ ║
 // ╚═╝╚═╝╝╚╝ ╩ ╚═╝
@@ -11,16 +12,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'alice',
+	name: 'Alice',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning,',
+	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'God night,',
+	greetingNight: 'Good night',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -65,7 +66,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'classroom',
+			name: 'Classroom',
 			icon: 'trello',
 			link: 'https://classroom.google.com/u/1/',
 		},
@@ -83,11 +84,12 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'youtube.com/',
+		},
 	],
-],
+
 	secondButtonsContainer: [
 		{
 			id: '1',
@@ -138,20 +140,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'liked music',
-					link: 'https://open.spotify.com/ahttps://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdNlbum/0io5pe55YRCTVqEjwlOBdN',
+					name: 'Inspirational',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'TRILOGY',
-					link: 'https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN',
+					name: 'Classic',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'MINT JAMS',
-					link: 'https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9?si=IAGocKV3TveUcYqMTOakJQ',
+					name: 'Oldies',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Hotline Miami 2',
-					link: 'https://open.spotify.com/playlist/02dTu6Lr0iiVtJzl0xuilW?si=3d5530d774db4e35',
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
@@ -160,8 +162,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'nitter',
-					link: 'https://nitter.net/',
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 				{
 					name: 'Dribbble',
