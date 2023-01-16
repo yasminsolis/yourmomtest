@@ -132,8 +132,8 @@ const CONFIG = {
 					link: 'https://www.tumblr.com/',
 				},
 				{
-					name: 'Hotline Miami wiki',
-					link: 'https://hotlinemiami.fandom.com/wiki/Hotline_Miami_Wiki',
+					name: 'Moriya Shrine',
+					link: 'https://moriyashrine.org/',
 				},
 				{
 					name: 'Touhou wiki',
