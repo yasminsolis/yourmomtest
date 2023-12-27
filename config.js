@@ -12,10 +12,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Alice',
+	name: 'Arlene',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -78,9 +78,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Pintrist',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://www.pinterest.com/',
 		},
 		{
 			id: '6',
@@ -106,16 +106,16 @@ const CONFIG = {
 					link: 'https://open.spotify.com/collection/tracks',
 				},
 				{
-					name: 'TRILOGY',
-					link: 'https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN',
+					name: 'ate',
+					link: 'https://open.spotify.com/playlist/1OX1Fk8HyXdbfuwhiOsimC?si=07afe25b2b0a4530',
 				},
 				{
-					name: 'MINT JAMS',
-					link: 'https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9',
+					name: 'Daisy',
+					link: 'https://open.spotify.com/album/06LUoqFf4VRz193j5GBToN?si=SbrUVPBnQGWZ0EPnJbENbg',
 				},
 				{
-					name: 'Legacy Of A Lunatic Kingdom',
-					link: 'https://open.spotify.com/album/4op1gv93yTE0P0GrefYuve',
+					name: 'get up',
+					link: 'https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18?si=5EwfFhxERKesX5_zLhRQGw',
 				},
 			],
 		},
@@ -124,20 +124,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Nitter',
-					link: 'https://nitter.net/',
+					name: 'Canvas',
+					link: 'https://esuhsd.instructure.com/',
 				},
 				{
-					name: 'tumblr',
-					link: 'https://www.tumblr.com/',
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Moriya Shrine',
-					link: 'https://moriyashrine.org/',
+					name: 'Roblox',
+					link: 'https://www.roblox.com/home',
 				},
 				{
-					name: 'Touhou wiki',
-					link: 'https://en.touhouwiki.net/wiki/Touhou_Wiki',
+					name: 'Instagram',
+					link: 'https://www.instagram.com/accounts/login/?source=reset_password',
 				},
 			],
 		},
